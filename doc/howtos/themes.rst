@@ -126,6 +126,10 @@ Let’s take a tour of our “list” elements:
 
 .. figure:: theme_tutorial_assets/img/styles.jpg
    :figclass: col-sm-6
+   
+   Functionalities
+
+   Thanks to Odoo’s modularity, everything can be personalized even more. This means there are endless possibilities for your creativity. Adding functionalities is easy and it’s simple to provide the end user with customizable options.
 
    Styles
 
@@ -134,9 +138,7 @@ Let’s take a tour of our “list” elements:
 .. figure:: theme_tutorial_assets/img/functionalities.jpg
    :figclass: col-sm-6
 
-   Functionalities
-
-   Thanks to Odoo’s modularity, everything can be personalized even more. This means there are endless possibilities for your creativity. Adding functionalities is easy and it’s simple to provide the end user with customizable options.
+   
 
 .. /row
 
