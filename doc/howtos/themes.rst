@@ -95,7 +95,7 @@ An Odoo theme is not a folder containing HTML or PHP files, it’s a modular fra
 
 Using classical web design workflows, you usually code the layout of the entire page. The result of this is a “static” web page. You can update the content, of course, but your client will need you to work on making even basic changes.
 
-Creating themes for Odoo is a total change of perspective. Instead of defining the complete layout for a page, you can create blocks (snippets) at let the user choose where to “drag&drop” them, creating the page layout on their own.
+Creating themes for Odoo is a total change of perspective. Instead of defining the complete layout for a page, you can create blocks (snippets) and let the user choose where to “drag'n'drop” them, creating the page layout on their own.
 We call this modular design.
 
 Imagine an Odoo theme as a “list” of elements and options that you have to create and style.
