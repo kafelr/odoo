@@ -117,7 +117,7 @@ Let’s take a tour of our “list” elements:
 
    Pages
 
-   These are normal web pages, except that they will be editable by the final user and that you can define an empty area that the user can “fill” by dragging snippets into it.
+   These are normal web pages, except that they will be editable by the end user and that you can define an empty area that the user can “fill” by dragging snippets into it.
 
 .. /row
 .. raw:: html
